@@ -1,0 +1,11 @@
+hostname | ipAddress | Error retrieving title
+google.com | 172.217.11.14 | Google
+Wikipedia.com | 208.80.154.224 | Wikipedia
+amazon.com | 176.32.103.205 | Amazon.com. Spend less. Smile more.
+facebook.com | 31.13.65.36 | Facebook
+youtube.com | 216.58.213.206 | YouTube
+twitter.com | 104.244.42.1 | 
+Netflix.com | 52.36.231.83 | Netflix
+Instagram.com | 34.236.127.217 | Error retrieving title
+reddit.com | 151.101.65.140 | Reddit - Dive into anything
+linkedin.com | 108.174.10.10 | LinkedIn: Log In or Sign Up
