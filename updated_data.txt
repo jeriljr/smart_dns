@@ -1,4 +1,4 @@
-hostname | ipAddress | Error retrieving title
+hostname | ipAddress | metadata
 google.com | 172.217.11.14 | Google
 Wikipedia.com | 208.80.154.224 | Wikipedia
 amazon.com | 176.32.103.205 | Amazon.com. Spend less. Smile more.
